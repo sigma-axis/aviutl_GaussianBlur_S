@@ -2,7 +2,7 @@
 
 拡張編集標準の三角分布のぼかしではなく，[正規分布](https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%88%86%E5%B8%83)によるぼかしのフィルタ効果を追加する拡張編集フィルタプラグインです．
 
-[ダウンロードはこちら．](https://github.com/sigma-axis/aviutl_GaussianBlur_S/releases)
+[ダウンロードはこちら．](https://github.com/sigma-axis/aviutl_GaussianBlur_S/releases) [紹介動画．](https://www.nicovideo.jp/watch/sm44770706)
 
 ![使用例](https://github.com/user-attachments/assets/1a27c759-fd01-4e2d-bc34-e8db18f8cd26)
 
@@ -110,7 +110,7 @@ obj.effect("ガウスぼかしσ", "標準偏差", 16, "範囲倍率", 350, "サ
 
 ##  改版履歴
 
-- **v1.00** (2025-0?-??)
+- **v1.00** (2025-03-16)
 
   - 初版．
 

@@ -69,7 +69,7 @@ private:
 ////////////////////////////////
 // 仕様書．
 ////////////////////////////////
-#define PLUGIN_VERSION	"v0.10-beta1"
+#define PLUGIN_VERSION	"v1.00"
 #define PLUGIN_AUTHOR	"sigma-axis"
 #define FILTER_INFO_FMT(name, ver, author)	(name##" "##ver##" by "##author)
 #define FILTER_INFO(name)	static constexpr char filter_name[] = name, info[] = FILTER_INFO_FMT(name, PLUGIN_VERSION, PLUGIN_AUTHOR)
